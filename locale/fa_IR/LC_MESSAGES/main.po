@@ -7442,7 +7442,7 @@ msgstr ""
 #: kenshi/savemanager.cpp:635 kenshi/titlescreen.cpp:80
 #: kenshi/titlescreen.cpp:640
 msgid "Load game"
-msgstr ""
+msgstr "ﯼﺯﺎﺑ ﯼﺭﺍﺬﮔﺭﺎﺑ"
 
 #: kenshi/savemanager.cpp:639
 msgid "Load"
@@ -9293,7 +9293,7 @@ msgstr ""
 
 #: kenshi/titlescreen.cpp:75 kenshi/titlescreen.cpp:630
 msgid "New game"
-msgstr ""
+msgstr "ﺪﯾﺪﺟ ﯼﺯﺎﺑ"
 
 #: kenshi/titlescreen.cpp:95
 msgid "Credits"
