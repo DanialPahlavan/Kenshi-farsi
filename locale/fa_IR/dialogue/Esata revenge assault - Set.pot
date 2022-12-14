@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 1401-09-23 06:47+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59787-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. Id: 58588-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. Id: 56439-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 59787-Dialogue.mod:0 58588-Dialogue.mod:0 56439-Dialogue.mod:0
+msgid "YOUR HEADS ARE MINE!"
+msgstr ""
+
+#. Id: 59787-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. Id: 58588-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. Id: 56439-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 59787-Dialogue.mod:1 58588-Dialogue.mod:1 56439-Dialogue.mod:1
+msgid "TODAY YOU DIE, DOGS!"
+msgstr ""
+
+#. Id: 59787-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. Id: 59790-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 58588-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. Id: 58593-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 56439-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 56457-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 59787-Dialogue.mod:2 59790-Dialogue.mod:2 58588-Dialogue.mod:2 58593-Dialogue.mod:2 56439-Dialogue.mod:2 56457-Dialogue.mod:2
+msgid "TODAY WILL BE YOUR DOOM, VERMIN!"
+msgstr ""
+
+#. Id: 59787-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. Id: 58588-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. Id: 56439-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 59787-Dialogue.mod:3 58588-Dialogue.mod:3 56439-Dialogue.mod:3
+msgid "TODAY IS A GOOD DAY TO DIE, VERMIN!"
+msgstr ""
+
+#. Id: 59788-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. Id: 58589-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58588-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#: 59788-Dialogue.mod:0 58589-Dialogue.mod:0
+msgid "You take my kin, you feel the wrath of Kral!"
+msgstr ""
+
+#. Id: 59788-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (59787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. Id: 58589-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (58588-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. Id: 56426-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (56425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 59788-Dialogue.mod:1 58589-Dialogue.mod:1 56426-Dialogue.mod:4
+msgid "Bend before your worst enemy!"
+msgstr ""
+
+#. Id: 59788-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (59787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. Id: 58589-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (58588-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. Id: 56426-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (56425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 59788-Dialogue.mod:2 58589-Dialogue.mod:2 56426-Dialogue.mod:5
+msgid "Bend to the /DIRT/, vermin! Taste the wrath of a real enemy!"
+msgstr ""
+
+#. Id: 59789-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#: 59789-Dialogue.mod:0
+msgid "Vengeance for Seto!"
+msgstr ""
+
+#. Id: 59789-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (59788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#: 59789-Dialogue.mod:1
+msgid "For Seto!"
+msgstr ""
+
+#. Id: 59789-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (59788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#: 59789-Dialogue.mod:2
+msgid "Blood for Seto!"
+msgstr ""
+
+#. Id: 59790-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 58593-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 56457-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 59790-Dialogue.mod:0 58593-Dialogue.mod:0 56457-Dialogue.mod:0
+msgid "YOUR HEAD IS MINE!"
+msgstr ""
+
+#. Id: 59790-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 58593-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 56457-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 59790-Dialogue.mod:1 58593-Dialogue.mod:1 56457-Dialogue.mod:1
+msgid "TODAY YOU DIE, MUTT!"
+msgstr ""
+
+#. Id: 59790-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 58593-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 56457-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 59790-Dialogue.mod:3 58593-Dialogue.mod:3 56457-Dialogue.mod:3
+msgid "TODAY IS A GOOD DAY TO DIE, MUTT!"
+msgstr ""
+
+#. Id: 61354-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. Id: 61350-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 61354-Dialogue.mod:0 61350-Dialogue.mod:0
+msgid "As long as I still breath, I am not defeated..."
+msgstr ""
+
+#. Id: 61354-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. Id: 61350-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 61354-Dialogue.mod:1 61350-Dialogue.mod:1
+msgid "Thought you'd be rid of me that easily? Think again..."
+msgstr ""
+
+#. Id: 61354-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. Id: 61350-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 61354-Dialogue.mod:2 61350-Dialogue.mod:2
+msgid "I don't die so easily, enemy. You should have finished me when you had the chance..."
+msgstr ""
+
+#. Id: 61354-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. Id: 61350-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 61354-Dialogue.mod:3 61350-Dialogue.mod:3
+msgid "I'm back from the dead, enemy. And I won't rest until victory is mine..."
+msgstr ""
+
+#. Id: 61354-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. Id: 61350-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 61354-Dialogue.mod:4 61350-Dialogue.mod:4
+msgid "I AM NOT DEFEATED!"
+msgstr ""
+
+#. Id: 61355-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. Id: 61352-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 61355-Dialogue.mod:0 61352-Dialogue.mod:0
+msgid "You fell to me once, you'll fall again..."
+msgstr ""
+
+#. Id: 61355-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Set
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. Id: 61352-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata revenge assault - Bayan
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 61355-Dialogue.mod:1 61352-Dialogue.mod:1
+msgid "Vermin. They just refuse to die..."
+msgstr ""
+

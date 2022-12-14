@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 1401-09-23 06:47+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 99066-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Greeee
+#. Id: 98839-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Queen crowd trigger
+#. Id: 99072-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (99071-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive announce
+#. Id: 99077-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (99076-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive announce
+#: 99066-Dialogue.mod:0 98839-Dialogue.mod:1 99072-Dialogue.mod:0 99077-Dialogue.mod:0
+msgid "Greeee!"
+msgstr ""
+
+#. Id: 99066-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Greeee
+#. Id: 56755-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56754-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Hiver southern attack no-hives
+#: 99066-Dialogue.mod:1 56755-Dialogue.mod:0
+msgid "Greeeeeee!"
+msgstr ""
+
+#. Id: 99066-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Greeee
+#. Id: 99116-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#. Id: 99116-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#: 99066-Dialogue.mod:2 99116-Dialogue.mod:2 99116-Dialogue.mod:7
+msgid "Greee!"
+msgstr ""
+

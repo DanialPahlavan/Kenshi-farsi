@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 1401-09-23 06:47+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#: 51662-rebirth.mod:0
+msgid "That's it! Deals off!"
+msgstr ""
+
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#: 51662-rebirth.mod:1
+msgid "What the hell are you doing!?"
+msgstr ""
+
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 3866-gamedata.base
+#. -- Index: 7.1
+#. -- Parent line: 6 (3865-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 40728-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#. Id: 14075-Dialogue (12).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 51662-rebirth.mod:2 3866-gamedata.base:1 12808-Dialogue?(11)?(2).mod:1 40728-Dialogue.mod:2 14075-Dialogue?(12).mod:6
+msgid "What are you doing?"
+msgstr ""
+
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#: 51662-rebirth.mod:3
+msgid "Hey! You bastard!"
+msgstr ""
+
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 3810-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3797-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 5067-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. Id: 8508-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 6443-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#: 51662-rebirth.mod:4 51662-rebirth.mod:7 3810-gamedata.base:0 5067-gamedata.base:1 8508-Dialogue.mod:2 6443-Dialogue.mod:1
+msgid "/WTF/?"
+msgstr ""
+
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 13468-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#. Id: 17450-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 15265-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15262-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper interrupted by stranger SWAMPER
+#: 51662-rebirth.mod:5 51662-rebirth.mod:6 13468-Escapes.mod:2 17450-Dialogue.mod:0 15265-Dialogue.mod:0
+msgid "/WTF/!"
+msgstr ""
+
+#. Id: 51663-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51662-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#: 51663-rebirth.mod:0
+msgid "Deal's off!"
+msgstr ""
+

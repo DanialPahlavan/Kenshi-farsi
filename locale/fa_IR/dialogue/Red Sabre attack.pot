@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 1401-09-23 06:47+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51652-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 51657-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51652-Dialogue.mod:0 51657-Dialogue.mod:0
+msgid "Those that enter the swamp, don't leave the swamp..."
+msgstr ""
+
+#. Id: 51652-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 51657-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51652-Dialogue.mod:1 51657-Dialogue.mod:1
+msgid "Everyone's ripe for pickin's in the swamplands..."
+msgstr ""
+
+#. Id: 51652-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 51652-Dialogue.mod:2
+msgid "A lost sheep in the swamp, eh?"
+msgstr ""
+
+#. Id: 51652-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 51657-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51652-Dialogue.mod:3 51657-Dialogue.mod:3
+msgid "A lesson for ya: Never stray into the swamps..."
+msgstr ""
+
+#. Id: 51652-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 51652-Dialogue.mod:4
+msgid "Never, never stray too deep into the swamp, outsider..."
+msgstr ""
+
+#. Id: 51652-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 51657-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51652-Dialogue.mod:5 51657-Dialogue.mod:4
+msgid "Fresh meat in the swamps, eh?"
+msgstr ""
+
+#. Id: 51658-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51652-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51658-Dialogue.mod:0
+msgid "/GETEM/! And strip every last bit o' loot from /HIS/ /CORPSE/!"
+msgstr ""
+
+#. Id: 51658-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51652-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. Id: 51653-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51657-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51658-Dialogue.mod:1 51653-Dialogue.mod:2
+msgid "This oughtta get us some easy loot. /GETEM/."
+msgstr ""
+
+#. Id: 51658-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51652-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51658-Dialogue.mod:2
+msgid "This one better have more loot on /HIM/ than the last lot o' chumps... /GETEM/!"
+msgstr ""
+
+#. Id: 51657-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51657-Dialogue.mod:2
+msgid "Lost sheep in the swamp, eh?"
+msgstr ""
+
+#. Id: 51653-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51657-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51653-Dialogue.mod:0
+msgid "/GETEM/! And strip every last bit o' loot from their carcasses!"
+msgstr ""
+
+#. Id: 51653-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51657-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51653-Dialogue.mod:1
+msgid "/GETEM/! And strip every last bit o' loot from their corpses!"
+msgstr ""
+
+#. Id: 51653-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (51657-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 51653-Dialogue.mod:3
+msgid "These ones better have more loot on 'em than the last lot o' schmucks... /GETEM/!"
+msgstr ""
+
+#. Id: 61418-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 61418-Dialogue.mod:0
+msgid "Lookie here... Got us a precious noble of the UC..."
+msgstr ""
+
+#. Id: 61418-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 61420-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. Id: 61425-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. Id: 61427-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 61418-Dialogue.mod:1 61420-Dialogue.mod:1 61425-Dialogue.mod:1 61427-Dialogue.mod:1
+msgid "Well, what have we got here... Got us a desert boot licker..."
+msgstr ""
+
+#. Id: 61418-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 61418-Dialogue.mod:2
+msgid "This 'un here's straight up from the UC..."
+msgstr ""
+
+#. Id: 61418-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 61418-Dialogue.mod:3
+msgid "Fresh from the United Cities, this one..."
+msgstr ""
+
+#. Id: 61418-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 61420-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 61418-Dialogue.mod:4 61420-Dialogue.mod:4
+msgid "Strayed far from home, ain'tcha, noble?"
+msgstr ""
+
+#. Id: 61418-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 61420-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 61418-Dialogue.mod:5 61420-Dialogue.mod:2
+msgid "This 'un here's straight up from the desert..."
+msgstr ""
+
+#. Id: 61421-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. Id: 61429-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 61421-Dialogue.mod:0 61429-Dialogue.mod:0
+msgid "I don't like nobles. An' I don't like you."
+msgstr ""
+
+#. Id: 61421-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. Id: 61429-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 61421-Dialogue.mod:1 61429-Dialogue.mod:1
+msgid "I don't like Empire folk. An' I don't like you."
+msgstr ""
+
+#. Id: 61421-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (61418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. Id: 61429-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (61425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 61421-Dialogue.mod:2 61429-Dialogue.mod:2
+msgid "Empire scumbags are only good for one thing: Robbin'."
+msgstr ""
+
+#. Id: 61420-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 61420-Dialogue.mod:0
+msgid "Lookie here... Got us a precious noble of the Traders Guild..."
+msgstr ""
+
+#. Id: 61420-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 61420-Dialogue.mod:3
+msgid "Fresh from the desert, this one..."
+msgstr ""
+
+#. Id: 61425-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 61425-Dialogue.mod:0
+msgid "Lookie here... Got us some precious nobles of the UC..."
+msgstr ""
+
+#. Id: 61425-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#: 61425-Dialogue.mod:2
+msgid "These 'uns here are straight up from the UC..."
+msgstr ""
+
+#. Id: 61425-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. Id: 61427-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 61425-Dialogue.mod:3 61427-Dialogue.mod:3
+msgid "Fresh from the United Cities, these 'uns..."
+msgstr ""
+
+#. Id: 61425-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. Id: 61427-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 61425-Dialogue.mod:4 61427-Dialogue.mod:4
+msgid "Strayed far from home, ain'tcha, nobles?"
+msgstr ""
+
+#. Id: 61427-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 61427-Dialogue.mod:0
+msgid "Lookie here... Got us some precious nobles of the Traders Guild..."
+msgstr ""
+
+#. Id: 61427-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Red Sabre attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 61427-Dialogue.mod:2
+msgid "These 'uns here are straight up from the desert..."
+msgstr ""
+

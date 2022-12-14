@@ -1,0 +1,2618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 1401-09-23 06:47+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 99010-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99010-Dialogue.mod:0
+msgid "Divine blessings to you, brothers!"
+msgstr ""
+
+#. Id: 99001-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (99010-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99001-Dialogue.mod:0
+msgid "Today is a glorious day!"
+msgstr ""
+
+#. Id: 99004-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (99001-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99004-Dialogue.mod:0
+msgid "Even better that it is Prayer Day..."
+msgstr ""
+
+#. Id: 99005-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (99004-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99005-Dialogue.mod:0
+msgid "I travel from the city with my faithful paladins..."
+msgstr ""
+
+#. Id: 99006-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (99005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99006-Dialogue.mod:0
+msgid "So that we can pray together..."
+msgstr ""
+
+#. Id: 99007-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (99006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99007-Dialogue.mod:0
+msgid "I bring the church to your very gates, my beloved brothers!"
+msgstr ""
+
+#. Id: 99008-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (99007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99008-Dialogue.mod:0
+msgid "Come to me..."
+msgstr ""
+
+#. Id: 99009-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (99008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99009-Dialogue.mod:0
+msgid "Come and pray with me on this beautiful day..."
+msgstr ""
+
+#. Id: 99011-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (99009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#. Id: 99016-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (99015-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Priest announce
+#. Id: 99017-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (99016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#. Id: 56290-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56288-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#. Id: 56295-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56294-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#. Id: 56306-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#. Id: 56308-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (56306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#. Id: 56309-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56308-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#. Id: 56286-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56283-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#. Id: 61053-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61052-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base announce
+#. Id: 61057-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base announce
+#. Id: 11443-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock Shek Bad relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 45436-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13927-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 45427-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13943-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 45433-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 63434-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#. Id: 55843-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55842-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: United Cities bar patrons
+#. Id: 64942-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (64941-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: United Cities bar patrons
+#. Id: 5656-Escapes.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (5652-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 17066-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (5656-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 5610-Escapes.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (5604-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 6110-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6109-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#. Id: 98948-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (98947-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#. Id: 57924-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57920-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 57922-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 48677-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 14705-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. Id: 14209-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ unlocked by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 60591-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60589-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. Id: 61225-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61214-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION=3, Tag: -1
+#. Id: 1532611-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1532597-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Fish island biome enty
+#. Id: 1532618-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1532617-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Fish island biome enty
+#. Id: 49131-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49130-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Miu recruit
+#. Id: 49138-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49135-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Miu recruit
+#. Id: 14071-Dialogue (12).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 55016-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. Id: 41905-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (61889-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#. Id: 98655-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98659-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally first time
+#. Id: 13901-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 44136-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44134-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 47484-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (47483-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#. Id: 47489-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47475-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#. Id: 47494-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47493-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#. Id: 57682-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57681-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hamut spots slavers
+#. Id: 57691-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57689-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hamut spots slavers
+#. Id: 58563-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base reaction to player
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#. Id: 60805-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. Id: 18091-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (18075-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Enslaved hiver ronin
+#. Id: 18087-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (18083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Enslaved hiver ronin
+#. Id: 18088-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (18087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Enslaved hiver ronin
+#. Id: 18059-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18052-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Enslaved hiver ronin
+#. Id: 18055-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Enslaved hiver ronin
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 20074-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Enslaved hiver ronin
+#. Id: 19858-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18055-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Enslaved hiver ronin
+#. Id: 54425-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#. Id: 54438-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54436-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#. Id: 57380-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57377-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep following
+#. Id: 11674-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11673-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#. Id: 1533024-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1533012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#. Id: 49236-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49235-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bar thug swamp
+#. Id: 19696-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19693-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. Id: 12737-Dialogue (11) (2).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (12725-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me empire 700
+#. Id: 53395-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought Ray
+#. Id: 56708-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked ninja pt3
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#. Id: 61305-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61304-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek tribute announcement pt2
+#. Id: 61306-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61305-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek tribute announcement pt2
+#. Id: 63983-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63982-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek tribute announcement pt2
+#. Id: 61640-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41910-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 61655-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (61654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 61663-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (61660-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 64072-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (64071-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 64076-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 64102-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (64101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 64088-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (64087-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 98854-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 55264-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55257-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#. Id: 41086-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 65875-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65874-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep wins
+#. Id: 65886-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65877-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep wins
+#. Id: 65885-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65884-rebirth.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: beep wins
+#. Id: 65265-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock skin bandit
+#. Id: 53496-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53493-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#. Id: 44777-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug1
+#. Id: 50828-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50827-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#. Id: 50831-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50829-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#. Id: 50841-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50830-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#. Id: 50859-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50840-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#. Id: 18797-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (18795-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. Id: 62648-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62647-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drifter walks into player base
+#. Id: 64197-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63750-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire farmer bandit raid announce
+#. Id: 1534547-__November2.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534524-__November2.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Player conscript talk to Reaver
+#. Id: 1534227-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534218-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#. Id: 43216-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 47409-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17997-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 47410-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 56381-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56380-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen shoo
+#. Id: 9899-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9893-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 18210-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9874-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 47154-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (47148-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#. Id: 2355-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (2350-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#. Id: 97580-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (2331-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. Id: 96257-rebirth.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (96256-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- bonefields
+#. Id: 96259-rebirth.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (96258-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- bonefields
+#. Id: 96260-rebirth.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (96259-rebirth.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: biome- bonefields
+#. Id: 50220-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50215-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 4
+#. Id: 44502-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ witness lockpicking outside
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 44503-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ witness lockpicking outside
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 98208-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. Id: 98209-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. Id: 52953-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#. Id: 49990-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 1
+#. Id: 49969-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49966-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 1
+#. Id: 62078-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62077-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wander trader base visit
+#. Id: 62073-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62072-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wander trader base visit
+#. Id: 62083-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wander trader base visit
+#. Id: 62096-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (62095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wander trader base visit
+#. Id: 20112-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20111-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Krals Chosen announce
+#. Id: 20096-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20090-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Krals Chosen announce
+#. Id: 17543-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. Id: 16866-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#. Id: 16866-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16863-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Blessings!
+#. Id: 7792-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy (outnumbered)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 62607-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62606-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approach base
+#. Id: 41046-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41045-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin sees escaped slave
+#. Id: 6977-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (6976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 41089-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 13002-Dialogue (11) (2).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (13001-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. Id: 13008-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13007-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. Id: 17270-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12987-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. Id: 52893-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52892-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian using equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#. Id: 15350-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15347-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bandit hold up
+#. Id: 47947-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47945-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. Id: 17622-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. Id: 65405-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (65404-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Longen world state
+#. Id: 65418-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65417-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Longen world state
+#. Id: 49007-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#. Id: 9861-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9855-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug
+#. Id: 98060-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 98136-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. Id: 17023-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged bandit
+#. Id: 66034-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (66033-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt4
+#. Id: 51523-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek 3
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 59823-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59813-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 58723-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 60656-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (60655-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Eyegore hunts down player
+#. Id: 60669-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Eyegore hunts down player
+#. Id: 59015-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Koin notices player
+#. Id: 96233-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96232-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- venge
+#. Id: 10026-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10023-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#. Id: 10035-Dialogue (7).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10029-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#. Id: 10047-Dialogue (7).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10036-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#. Id: 10040-Dialogue (7).mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (10039-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#. Id: 18229-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10052-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5) 
+#. Id: 10398-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10316-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#. Id: 1534087-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534070-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 1534089-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534071-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 49617-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49560-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy nation shout at slave
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 49622-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49621-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy nation shout at slave
+#. Id: 49582-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49575-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy nation shout at slave
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 49584-Dialogue.mod
+#. -- Index: 3.12
+#. -- Parent line: 2 (49583-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy nation shout at slave
+#. Id: 49619-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49599-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy nation shout at slave
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 50997-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (50993-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#. Id: 50971-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50967-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#. Id: 10060-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10055-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes bullied (pt5)
+#. Id: 10079-Dialogue (7).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10066-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes bullied (pt5)
+#. Id: 9592-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. Id: 98707-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98701-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally second chance
+#. Id: 98703-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98702-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally second chance
+#. Id: 98711-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (98710-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally second chance
+#. Id: 41083-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 62961-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (62958-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Savant talk to
+#. Id: 63856-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (63849-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Savant talk to
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 51558-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (51552-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. Id: 50344-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#. Id: 50348-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50345-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#. Id: 98170-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#. Id: 19744-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 18308-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Town thug mugging harassment
+#. Id: 18818-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8915-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drunken myths
+#. Id: 48428-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (48375-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 53840-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53839-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire good guard
+#. Id: 53933-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53932-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire good guard
+#. Id: 53934-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire good guard
+#. Id: 53934-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire good guard
+#. Id: 14637-Dialogue (4).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14605-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. Id: 44972-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44982-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#. Id: 45018-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 98732-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (98731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98747-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (98746-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98751-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98750-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98767-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98752-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 51562-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 62132-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (62131-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Bar patrons random faction comment on world state
+#. Id: 1533250-__world reactions NE.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533249-__world reactions NE.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#. Id: 49707-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49704-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Rebirth Boss Slave Trader
+#. Id: 65921-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65920-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab town recruit
+#. Id: 17679-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#. Id: 54854-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought shek from slavery
+#. Id: 65652-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Phoenix world state
+#. Id: 61101-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61100-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base announce (2nd + visit)
+#. Id: 61104-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61103-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base announce (2nd + visit)
+#. Id: 66411-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hounds embarrassed
+#. Id: 7314-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. Id: 10931-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9839-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bullying events - make civs separate faction
+#. Id: 65532-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65531-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#. Id: 60194-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (60188-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ sees player carry enemy
+#. Id: 14077-Dialogue (12).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 50958-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Boasting bar patron worlds end
+#. Id: 58668-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (58663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. Id: 18206-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9990-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. Id: 13385-Escapes.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (13382-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 13371-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13370-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 62044-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (62043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Taxman announce 3rd
+#. Id: 43631-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: swamper gang protection money collection
+#. -- Condition: In town(s) of faction(s): Swampers
+#. Id: 43741-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43673-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: swamper gang protection money collection
+#. Id: 43640-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43639-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: swamper gang protection money collection
+#. Id: 43642-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43641-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: swamper gang protection money collection
+#. Id: 17115-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. Id: 50147-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: My Race(s): Greenlander
+#. Id: 46395-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (3122-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46427-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (46396-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46428-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (46427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46399-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (46397-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46471-Dialogue.mod
+#. -- Index: 20.0
+#. -- Parent line: 19 (46470-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. Id: 46596-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (46595-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46597-Dialogue.mod
+#. -- Index: 19.6
+#. -- Parent line: 18 (46596-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46401-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (46400-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46420-Dialogue.mod
+#. -- Index: 23.0
+#. -- Parent line: 22 (46419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46632-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (46631-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46636-Dialogue.mod
+#. -- Index: 20.0
+#. -- Parent line: 19 (46635-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46440-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (46439-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46441-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (46440-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46758-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46397-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46819-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (46444-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46785-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46784-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13794-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13784-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. Id: 57028-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (57027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#. Id: 98878-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base after victory
+#. Id: 15359-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (15158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 16531-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15363-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 16537-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (16535-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire terrorist hunt
+#. Id: 53266-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (53265-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 15308-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (15194-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire terrorist hunt
+#. Id: 15225-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (15223-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 18962-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (15223-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 15168-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (15163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 15168-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (15163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 5801-Escapes.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (5797-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#. Id: 5817-Escapes.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (5802-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#. Id: 5818-Escapes.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (5817-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#. Id: 5816-Escapes.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (5801-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#. Id: 51492-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (51484-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#. Id: 1533762-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533672-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- agnu beep random 1
+#. Id: 96061-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: TARGET, Condition: MIXED_GENDER_GROUP=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. Id: 97346-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97345-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. Id: 16039-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16035-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military imposter
+#. Id: 17826-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17812-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shriek attack 2
+#. Id: 17820-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17819-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shriek attack 2
+#. Id: 48021-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by other finished desparate
+#. Id: 1533995-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dack and quin unlock
+#. Id: 66416-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (66402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66423-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 66435-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (66427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66437-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (66436-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66428-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 66429-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 66430-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 99141-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96301-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#. Id: 17040-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17039-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#. Id: 16232-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante spots imposter
+#. Id: 53992-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53983-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#. Id: 98187-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98167-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver sees player ally
+#. Id: 98189-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98188-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver sees player ally
+#. Id: 95970-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. Id: 95875-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
+#. Id: 95881-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. Id: 97477-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (97476-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. Id: 56058-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver southern attack no-hives
+#. Id: 56114-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56113-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#. Id: 54051-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome heng
+#. Id: 65729-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65728-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries tinfist world state
+#. Id: 97496-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 11001-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed Shek Slightly neg
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 57061-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (57060-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu player talk to
+#. Id: 56984-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56980-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu player talk to
+#. Id: 49805-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49795-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#. Id: 49884-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#. Id: 95445-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95444-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base announce 2
+#. Id: 95448-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (95447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base announce 2
+#. Id: 55191-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55153-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter talk to
+#. Id: 55196-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55168-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter talk to
+#. Id: 55197-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55169-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter talk to
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 48635-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48631-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Skeleton for hire 1 2500
+#. Id: 57104-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<75, Tag: -1
+#. Id: 1533004-__world reactions W.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533002-__world reactions W.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Holy farmer world state
+#. Id: 66110-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65999-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt3
+#. Id: 58795-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for phoenix
+#. Id: 40848-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ spots ex slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 40853-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (40852-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ spots ex slave
+#. Id: 40860-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40854-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ spots ex slave
+#. Id: 59035-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu congratulates player
+#. Id: 66073-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (66068-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 66080-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96958-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 66093-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (66080-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 66103-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (66102-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 66108-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (66106-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 42534-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42561-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest sees female, 1st time
+#. Id: 64282-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 55121-__dont commit.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#. Id: 13490-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit (imprisoner)
+#. Id: 51437-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51432-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#. Id: 51521-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51514-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#. Id: 56941-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56940-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: crumble jon being healed
+#. Id: 56509-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56508-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Eyegore defeat enemy
+#. Id: 54367-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54366-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#. Id: 56161-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56151-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#. Id: 56165-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56163-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#. Id: 56135-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56134-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 65315-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>3, Tag: -1
+#. Id: 65792-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65791-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#. Id: 96963-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96962-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#. Id: 96965-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96964-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#. Id: 96971-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (96970-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#. Id: 1533981-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1533980-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 1533982-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1533981-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#. Id: 1532733-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1532726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt tax evasion campaign
+#. Id: 1532722-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532720-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt tax evasion campaign
+#. Id: 1532737-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt tax evasion campaign
+#. Id: 1532740-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532723-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt tax evasion campaign
+#. Id: 50163-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 19812-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19811-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin being healed start
+#. Id: 64811-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64812-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome Bast arrival
+#. Id: 56912-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56911-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#. Id: 98039-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (4881-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: starver marks a target
+#. Id: 16376-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16374-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Attack pt1
+#. Id: 16396-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16377-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Attack pt1
+#. Id: 11566-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11564-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. Id: 11592-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11591-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. Id: 14928-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 45736-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 45751-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45740-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 45754-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45737-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 55564-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (55563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#. Id: 55567-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55556-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#. Id: 5039-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (5036-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hey chump. what're you lookin' at?
+#. Id: 5028-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5025-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hey chump. what're you lookin' at?
+#. Id: 53039-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53036-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Scrapmaster smiths
+#. Id: 41080-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 63345-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu vault prisoner
+#. Id: 63356-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63354-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu vault prisoner
+#. Id: 54744-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from slavery tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. Id: 54749-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from slavery tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=0, Tag: -1
+#. Id: 18869-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (18868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#. Id: 20265-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20264-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#. Id: 41087-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: unlocked - still have shackles merc
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 65815-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65814-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entry horse
+#. Id: 65819-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65818-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entry horse
+#. Id: 58928-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Big grim talk to diplomat
+#. Id: 43200-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (40776-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 19109-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 43290-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 43306-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. Id: 53868-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53864-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#. Id: 53875-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. Id: 53876-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53875-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#. Id: 53881-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (53878-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. Id: 53899-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. Id: 46892-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46891-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. Id: 46911-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46905-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 46944-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. Id: 46918-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 43233-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43227-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 43239-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (43238-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 52421-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (52418-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 9655-Dialogue.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (9641-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 51880-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (51893-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 52157-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 6708-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 51920-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52160-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 52162-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52155-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 53949-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. Id: 53951-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. Id: 61589-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61587-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Grey talk to join
+#. Id: 42674-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42673-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sundemon healing someone
+#. Id: 52696-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9682-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. Id: 54707-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (54706-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Noble slave farm boss
+#. Id: 54719-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (54718-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Noble slave farm boss
+#. Id: 54740-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (54716-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Noble slave farm boss
+#. Id: 54887-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (54738-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Noble slave farm boss
+#. Id: 12814-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healed by enemy
+#. Id: 40831-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 4830-D-dialogue-02.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (4829-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4841-dialogue-02.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (4840-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4848-dialogue-02.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (4847-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4851-dialogue-02.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (4850-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 50701-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. Id: 2434-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2433-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandits negotiate
+#. Id: 2436-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (2435-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandits negotiate
+#. Id: 19672-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#. Id: 49444-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 49445-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49444-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 66018-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66017-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt2
+#. Id: 66137-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66136-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt2
+#. Id: 54145-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (54144-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome arrival bugmaster
+#. Id: 11435-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 13850-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13849-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. Id: 44157-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44155-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. Id: 44376-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (44372-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 51235-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Doctor chung healed by other
+#. Id: 66361-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 66363-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 66365-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 63017-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (63013-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#. Id: 65179-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65178-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#. Id: 65183-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65182-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit sees player
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. Id: 98084-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98077-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. Id: 5740-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour ninja talk to pt 2
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 95906-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 95917-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION=3, Tag: -1
+#. Id: 95962-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95953-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 45359-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44825-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug5
+#. Id: 3616-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. Id: 47827-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47824-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog extortion lead up
+#. Id: 8307-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging
+#. Id: 42898-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42897-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest sees robot/ beast
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 48850-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#. Id: 61482-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Killed noble announce
+#. Id: 17715-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17705-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. Id: 17722-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17707-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. Id: 48933-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48892-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to tough rescued from slaver
+#. Id: 48934-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to tough rescued from slaver
+#. Id: 48899-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48895-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to tough rescued from slaver
+#. Id: 96242-__Southern hive.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (96241-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#. Id: 63719-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63718-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver follows player
+#. Id: 15919-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15918-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. Id: 51460-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51457-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 3
+#. Id: 51451-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51444-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 3
+#. Id: 5839-D-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5837-D-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit Revenge I hate this guy
+#. Id: 20165-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20164-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#. Id: 20169-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (20168-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#. Id: 53573-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation check part 1
+#. Id: 15449-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 15518-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15423-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. Id: 15511-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. Id: 15500-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (15495-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 62475-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. Id: 62473-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (62475-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. Id: 62473-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (62475-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. Id: 62485-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. Id: 55316-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55315-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton town oneliners
+#. Id: 56198-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56196-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: bookshop guy
+#: 99011-Dialogue.mod:0 99016-Dialogue.mod:0 99017-Dialogue.mod:0 56290-Dialogue.mod:0 56295-Dialogue.mod:0 56306-Dialogue.mod:0 56308-Dialogue.mod:0 56309-Dialogue.mod:0 56286-Dialogue.mod:0 61053-Dialogue.mod:0 61057-Dialogue.mod:0 11443-Dialogue?(10).mod:0 45436-Dialogue.mod:0 45427-Dialogue.mod:0 45433-Dialogue.mod:0 63434-Dialogue.mod:0 55843-Dialogue.mod:0 64942-Dialogue.mod:0 5656-Escapes.mod:0 17066-Dialogue.mod:0 5610-Escapes.mod:1 6110-Dialogue.mod:0 98948-Dialogue.mod:0 57924-Dialogue.mod:0 57922-Dialogue.mod:0 48677-Dialogue.mod:0 14705-Dialogue.mod:0 14209-Dialogue?(4).mod:0 60591-Dialogue.mod:0 61225-Dialogue.mod:0 1532611-Dialogue.mod:0 1532618-Dialogue.mod:0 49131-Dialogue.mod:0 49138-Dialogue.mod:0 14071-Dialogue?(12).mod:2 55016-Dialogue.mod:0 41905-Dialogue.mod:1 98655-Dialogue.mod:0 13901-Escapes.mod:0 44136-Dialogue.mod:0 47484-Dialogue.mod:0 47489-Dialogue.mod:0 47494-Dialogue.mod:0 57682-Dialogue.mod:0 57691-Dialogue.mod:0 58563-Dialogue.mod:3 60805-Dialogue.mod:0 18091-Dialogue.mod:0 18087-Dialogue.mod:0 18088-Dialogue.mod:0 18059-Dialogue.mod:0 18055-Dialogue.mod:0 20074-Dialogue.mod:0 19858-Dialogue.mod:0 54425-Dialogue.mod:0 54438-Dialogue.mod:0 57380-rebirth.mod:0 11674-Dialogue?(10).mod:0 1533024-Dialogue.mod:0 49236-Dialogue.mod:0 19696-Dialogue.mod:0 12737-Dialogue?(11)?(2).mod:0 53395-Dialogue.mod:0 56708-Dialogue.mod:0 61305-Dialogue.mod:0 61306-Dialogue.mod:0 63983-Dialogue.mod:0 61640-Dialogue.mod:0 61655-Dialogue.mod:0 61663-Dialogue.mod:0 64072-Dialogue.mod:0 64076-Dialogue.mod:0 64102-Dialogue.mod:0 64088-Dialogue.mod:0 98854-Dialogue.mod:0 55264-Dialogue.mod:0 41086-Dialogue.mod:0 65875-rebirth.mod:0 65886-rebirth.mod:0 65885-rebirth.mod:0 65265-Dialogue.mod:1 53496-Dialogue.mod:0 44777-Dialogue.mod:14 50828-Dialogue.mod:0 50831-Dialogue.mod:0 50841-Dialogue.mod:0 50859-Dialogue.mod:0 18797-Dialogue.mod:0 62648-Dialogue.mod:0 64197-Dialogue.mod:0 1534547-__November2.mod:0 1534227-Dialogue.mod:0 43216-Dialogue.mod:0 47409-Dialogue.mod:0 47410-Dialogue.mod:0 56381-Dialogue.mod:0 9899-Dialogue.mod:0 18210-Dialogue.mod:0 47154-Dialogue.mod:0 2355-gamedata.base:0 97580-Dialogue.mod:0 44845-Dialogue.mod:4 96257-rebirth.mod:0 96259-rebirth.mod:0 96260-rebirth.mod:0 50220-Dialogue.mod:0 44502-Dialogue.mod:0 44503-Dialogue.mod:0 98208-Dialogue.mod:0 98209-Dialogue.mod:0 52953-Dialogue.mod:0 49990-Dialogue.mod:0 49969-Dialogue.mod:0 62078-Dialogue.mod:0 62073-Dialogue.mod:0 62083-Dialogue.mod:0 62096-Dialogue.mod:0 20112-Dialogue.mod:0 20096-Dialogue.mod:0 17543-Dialogue.mod:0 16866-Dialogue.mod:0 16866-Dialogue.mod:3 7792-Dialogue.mod:2 62607-Dialogue.mod:0 41046-Dialogue.mod:0 6977-Dialogue.mod:0 41089-Dialogue.mod:0 13002-Dialogue?(11)?(2).mod:1 13008-Dialogue?(11)?(2).mod:0 17270-Dialogue.mod:0 52893-Dialogue.mod:0 15350-Dialogue.mod:0 47947-Dialogue.mod:0 17622-Dialogue.mod:2 65405-Dialogue.mod:0 65418-Dialogue.mod:0 49007-Dialogue.mod:0 9861-Dialogue.mod:0 98060-Dialogue.mod:0 98136-Dialogue.mod:0 17023-Dialogue.mod:0 66034-Dialogue.mod:0 51523-Dialogue.mod:1 59823-Dialogue.mod:0 58723-Dialogue.mod:0 60656-Dialogue.mod:0 60669-Dialogue.mod:0 59015-Dialogue.mod:0 96233-rebirth.mod:0 10026-Dialogue?(7).mod:0 10035-Dialogue?(7).mod:0 10047-Dialogue?(7).mod:0 10040-Dialogue?(7).mod:1 18229-Dialogue.mod:0 10398-Dialogue?(7).mod:0 1534087-__Fixes.mod:0 1534089-__Fixes.mod:0 49617-Dialogue.mod:0 49622-Dialogue.mod:0 49582-Dialogue.mod:0 49584-Dialogue.mod:12 49619-Dialogue.mod:0 50997-Dialogue.mod:0 50971-Dialogue.mod:0 10060-Dialogue?(7).mod:0 10079-Dialogue?(7).mod:0 9592-Dialogue.mod:0 98707-Dialogue.mod:0 98703-Dialogue.mod:0 98711-Dialogue.mod:0 41083-Dialogue.mod:0 62961-Dialogue.mod:0 63856-Dialogue.mod:0 51526-Dialogue.mod:2 51558-Dialogue.mod:0 50344-Dialogue.mod:0 50348-Dialogue.mod:0 98170-Dialogue.mod:0 19744-Dialogue.mod:2 18308-Dialogue.mod:0 18818-Dialogue.mod:0 48428-Dialogue.mod:2 53840-Dialogue.mod:0 53933-Dialogue.mod:0 53934-Dialogue.mod:0 53934-Dialogue.mod:2 14637-Dialogue?(4).mod:0 44972-Dialogue.mod:0 45018-Dialogue.mod:0 51595-Dialogue.mod:7 98732-Dialogue.mod:0 98747-Dialogue.mod:0 98751-Dialogue.mod:0 98767-Dialogue.mod:0 51562-Dialogue.mod:0 62132-Dialogue.mod:0 1533250-__world?reactions?NE.mod:0 49707-Dialogue.mod:0 65921-Dialogue.mod:0 17679-Dialogue.mod:1 54854-Dialogue.mod:0 65652-Dialogue.mod:0 61101-Dialogue.mod:0 61104-Dialogue.mod:0 66411-Dialogue.mod:0 7314-Dialogue.mod:1 10931-Dialogue?(10).mod:0 65532-Dialogue.mod:0 60194-Dialogue.mod:2 14077-Dialogue?(12).mod:4 50958-Dialogue.mod:0 58668-Dialogue.mod:0 18206-Dialogue.mod:0 13385-Escapes.mod:0 13371-Escapes.mod:0 62044-Dialogue.mod:0 43631-Dialogue.mod:0 43741-Dialogue.mod:0 43640-Dialogue.mod:0 43642-Dialogue.mod:0 17115-Dialogue.mod:0 50147-Dialogue.mod:0 46395-Dialogue.mod:5 46427-Dialogue.mod:2 46428-Dialogue.mod:3 46399-Dialogue.mod:1 46471-Dialogue.mod:0 46596-Dialogue.mod:0 46597-Dialogue.mod:6 46401-Dialogue.mod:3 46420-Dialogue.mod:0 46632-Dialogue.mod:0 46636-Dialogue.mod:0 46440-Dialogue.mod:0 46441-Dialogue.mod:0 46758-Dialogue.mod:0 46819-Dialogue.mod:0 46785-Dialogue.mod:0 13794-Escapes.mod:0 57028-Dialogue.mod:0 98878-Dialogue.mod:0 15359-Dialogue.mod:0 16531-Dialogue.mod:1 16537-Dialogue.mod:1 53266-Dialogue.mod:0 15308-Dialogue.mod:0 15225-Dialogue.mod:0 18962-Dialogue.mod:0 15168-Dialogue.mod:1 15168-Dialogue.mod:4 5801-Escapes.mod:0 5817-Escapes.mod:0 5818-Escapes.mod:0 5816-Escapes.mod:0 51492-Dialogue.mod:0 1533762-rebirth.mod:0 96061-Dialogue.mod:0 97346-Dialogue.mod:0 16039-Dialogue.mod:0 17826-Dialogue.mod:0 17820-Dialogue.mod:0 48021-Dialogue.mod:4 1533995-Dialogue.mod:0 66416-Dialogue.mod:0 66423-Dialogue.mod:0 66435-Dialogue.mod:0 66437-Dialogue.mod:0 66428-Dialogue.mod:0 66429-Dialogue.mod:0 66430-Dialogue.mod:0 99141-Dialogue.mod:0 17040-Dialogue.mod:0 16232-Dialogue.mod:11 53992-Dialogue.mod:0 98187-Dialogue.mod:0 98189-Dialogue.mod:0 95970-Dialogue.mod:0 95875-Dialogue.mod:0 95881-Dialogue.mod:0 97477-Dialogue.mod:0 56058-Dialogue.mod:3 56114-Dialogue.mod:0 54051-Dialogue.mod:0 65729-Dialogue.mod:0 97496-Dialogue.mod:0 11001-Dialogue?(10).mod:1 57061-Dialogue.mod:0 56984-Dialogue.mod:0 49805-Dialogue.mod:0 49884-Dialogue.mod:0 95445-Dialogue.mod:0 95448-Dialogue.mod:0 55191-Dialogue.mod:0 55196-Dialogue.mod:0 55197-Dialogue.mod:0 43745-Dialogue.mod:10 43745-Dialogue.mod:13 48635-Dialogue.mod:0 57104-Dialogue.mod:0 1533004-__world?reactions?W.mod:0 66110-Dialogue.mod:0 58795-Dialogue.mod:0 40848-Dialogue.mod:2 40853-Dialogue.mod:1 40860-Dialogue.mod:0 59035-Dialogue.mod:0 66073-Dialogue.mod:0 66080-Dialogue.mod:0 66093-Dialogue.mod:0 66103-Dialogue.mod:0 66108-Dialogue.mod:0 42534-Dialogue.mod:0 64282-Dialogue.mod:0 55121-__dont?commit.mod:2 13490-Escapes.mod:2 51437-Dialogue.mod:0 51521-Dialogue.mod:0 56941-Dialogue.mod:0 56509-Dialogue.mod:0 54367-Dialogue.mod:0 56161-Dialogue.mod:0 56165-Dialogue.mod:0 56135-Dialogue.mod:0 65315-Dialogue.mod:0 65792-Dialogue.mod:0 96963-Dialogue.mod:0 96965-Dialogue.mod:0 96971-Dialogue.mod:0 1533981-Dialogue.mod:0 1533982-Dialogue.mod:0 1532733-Dialogue.mod:0 1532722-Dialogue.mod:0 1532737-Dialogue.mod:0 1532740-Dialogue.mod:0 50163-Dialogue.mod:1 19812-Dialogue.mod:1 64811-Dialogue.mod:0 56912-Dialogue.mod:0 98039-Dialogue.mod:0 16376-Dialogue.mod:0 16396-Dialogue.mod:0 11566-Dialogue?(10).mod:0 11592-Dialogue?(10).mod:0 14928-Dialogue.mod:0 45736-Dialogue.mod:0 45751-Dialogue.mod:0 45754-Dialogue.mod:0 55564-Dialogue.mod:0 55567-Dialogue.mod:0 5039-Dialogue.mod:0 5028-Dialogue.mod:0 53039-Dialogue.mod:0 41080-Dialogue.mod:0 63345-Dialogue.mod:0 63356-Dialogue.mod:0 54744-Dialogue.mod:2 54749-Dialogue.mod:3 18869-Dialogue.mod:0 20265-Dialogue.mod:0 41087-Dialogue.mod:0 65815-Dialogue.mod:0 65819-Dialogue.mod:0 58928-Dialogue.mod:0 43200-Dialogue.mod:0 19109-Dialogue.mod:0 43290-Dialogue.mod:0 43306-Dialogue.mod:0 53868-Dialogue.mod:0 53875-Dialogue.mod:0 53876-Dialogue.mod:0 53881-Dialogue.mod:1 53899-Dialogue.mod:0 46892-Dialogue.mod:0 46911-Dialogue.mod:0 46944-Dialogue.mod:0 46918-Dialogue.mod:0 43233-Dialogue.mod:0 43239-Dialogue.mod:1 52421-Dialogue.mod:0 9655-Dialogue.mod:0 51880-Dialogue.mod:0 52157-Dialogue.mod:1 6708-Dialogue.mod:0 51920-Dialogue.mod:0 52160-Dialogue.mod:0 52162-Dialogue.mod:0 53949-Dialogue.mod:0 53951-Dialogue.mod:0 61589-Dialogue.mod:0 42674-Dialogue.mod:0 52696-Dialogue.mod:0 54707-Dialogue.mod:0 54719-Dialogue.mod:0 54740-Dialogue.mod:0 54887-Dialogue.mod:0 12814-Dialogue?(11)?(2).mod:0 40831-Dialogue.mod:0 4830-D-dialogue-02.mod:0 4841-dialogue-02.mod:0 4848-dialogue-02.mod:0 4851-dialogue-02.mod:0 50701-Dialogue.mod:0 2434-gamedata.base:0 2436-gamedata.base:0 19672-Dialogue.mod:0 49444-Dialogue.mod:0 49445-Dialogue.mod:0 66018-Dialogue.mod:0 66137-Dialogue.mod:0 54145-Dialogue.mod:0 11435-Dialogue?(10).mod:0 13850-Escapes.mod:0 44157-Dialogue.mod:0 44376-Dialogue.mod:0 51235-Dialogue.mod:0 66361-Dialogue.mod:0 66363-Dialogue.mod:0 66365-Dialogue.mod:0 63017-Dialogue.mod:0 65179-Dialogue.mod:0 65183-Dialogue.mod:0 98084-Dialogue.mod:0 5740-Escapes.mod:0 95906-Dialogue.mod:0 95917-Dialogue.mod:0 95962-Dialogue.mod:0 45359-Dialogue.mod:0 3616-dialogue-01.mod:6 47827-Dialogue.mod:0 8307-Dialogue.mod:3 42898-Dialogue.mod:0 48850-Dialogue.mod:0 61482-Dialogue.mod:0 17715-Dialogue.mod:0 17722-Dialogue.mod:0 48933-Dialogue.mod:0 48934-Dialogue.mod:0 48899-Dialogue.mod:0 96242-__Southern?hive.mod:0 63719-Dialogue.mod:0 15919-Dialogue.mod:0 51460-Dialogue.mod:0 51451-Dialogue.mod:0 5839-D-Dialogue.mod:0 20165-Dialogue.mod:0 20169-Dialogue.mod:0 53573-rebirth.mod:2 15449-Dialogue.mod:0 15518-Dialogue.mod:0 15511-Dialogue.mod:0 15500-Dialogue.mod:0 62475-Dialogue.mod:0 62473-Dialogue.mod:4 62473-Dialogue.mod:5 62485-Dialogue.mod:0 55316-Dialogue.mod:0 56198-rebirth.mod:0
+msgid "..."
+msgstr ""
+
+#. Id: 99013-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (99012-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Priest announce
+#: 99013-Dialogue.mod:0
+msgid "The priest requests your audience, brothers. Come."
+msgstr ""
+
+#. Id: 99014-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (99013-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Priest announce
+#: 99014-Dialogue.mod:0
+msgid "Do you hear?"
+msgstr ""
+
+#. Id: 99015-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (99014-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99015-Dialogue.mod:0
+msgid "... A moment more, sir paladin, if you will..."
+msgstr ""
+
+#. Id: 99018-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (99017-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Priest announce
+#: 99018-Dialogue.mod:0
+msgid "To ignore the request of a holy priest is looked upon as sacrilege, my brothers..."
+msgstr ""
+
+#. Id: 99019-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (99018-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Priest announce
+#: 99019-Dialogue.mod:0
+msgid "I warn you once, and only once!"
+msgstr ""
+
+#. Id: 99020-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (99019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99020-Dialogue.mod:0
+msgid "*nod*"
+msgstr ""
+
+#. Id: 99021-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (99020-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Priest announce
+#: 99021-Dialogue.mod:0
+msgid "It is with regret that your aversion to prayer must be reported..."
+msgstr ""
+
+#. Id: 99022-Dialogue.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (99021-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99022-Dialogue.mod:0
+msgid "Come, sir paladin..."
+msgstr ""
+
+#. Id: 99023-Dialogue.mod
+#. -- Index: 20.0
+#. -- Parent line: 19 (99022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest announce
+#: 99023-Dialogue.mod:0
+msgid "We must inform the High Inquisitor."
+msgstr ""
+

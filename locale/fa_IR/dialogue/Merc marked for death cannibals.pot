@@ -1,0 +1,541 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 1401-09-23 06:47+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12618-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12618-Dialogue?(11)?(2).mod:0
+msgid "This is dogshit!"
+msgstr ""
+
+#. Id: 12618-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12618-Dialogue?(11)?(2).mod:1
+msgid "I didn't sign up for this crap!"
+msgstr ""
+
+#. Id: 12618-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12618-Dialogue?(11)?(2).mod:2
+msgid "Hell no! You gotta be kidding me!"
+msgstr ""
+
+#. Id: 12618-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12618-Dialogue?(11)?(2).mod:3
+msgid "Nope. Nope. Nope."
+msgstr ""
+
+#. Id: 12618-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12618-Dialogue?(11)?(2).mod:4
+msgid "You people are fucked! You're nutjobs, I tell you!"
+msgstr ""
+
+#. Id: 12618-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12618-Dialogue?(11)?(2).mod:5
+msgid "What's wrong with you whackos!? What the hell's wrong with you?!"
+msgstr ""
+
+#. Id: 12618-Dialogue (11) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12618-Dialogue?(11)?(2).mod:6
+msgid "/WHATTHEFUCK/... /WHATTHEFUCK/!?... This place is fucked!"
+msgstr ""
+
+#. Id: 12622-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12618-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12622-Dialogue?(11)?(2).mod:0
+msgid "Shit! Help! Help!!!!"
+msgstr ""
+
+#. Id: 12622-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12618-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12622-Dialogue?(11)?(2).mod:1
+msgid "GODDAMN IT! HELP!"
+msgstr ""
+
+#. Id: 12622-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12618-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12622-Dialogue?(11)?(2).mod:2
+msgid "... HELP! HELP! HELPPPPPP!"
+msgstr ""
+
+#. Id: 12622-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12618-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12622-Dialogue?(11)?(2).mod:3
+msgid "HELP! HELP ME!!!"
+msgstr ""
+
+#. Id: 12619-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12623-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12621-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12619-Dialogue?(11)?(2).mod:0 12623-Dialogue?(11)?(2).mod:0
+msgid "Shit."
+msgstr ""
+
+#. Id: 12619-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12619-Dialogue?(11)?(2).mod:1
+msgid "Touch me and you fucking die!"
+msgstr ""
+
+#. Id: 12619-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12619-Dialogue?(11)?(2).mod:2
+msgid "Get those /CRAPPY/ mitts away from me!"
+msgstr ""
+
+#. Id: 12619-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12619-Dialogue?(11)?(2).mod:3
+msgid "Get those /CRAPPY/ paws away from me!"
+msgstr ""
+
+#. Id: 12619-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 13435-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#: 12619-Dialogue?(11)?(2).mod:4 13435-Escapes.mod:3
+msgid "... Kch!"
+msgstr ""
+
+#. Id: 12619-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12619-Dialogue?(11)?(2).mod:5
+msgid "... this bites."
+msgstr ""
+
+#. Id: 12619-Dialogue (11) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12619-Dialogue?(11)?(2).mod:6
+msgid ",,, They're coming for me..."
+msgstr ""
+
+#. Id: 12621-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12621-Dialogue?(11)?(2).mod:0
+msgid "... I'm so glad I'm drunk right now..."
+msgstr ""
+
+#. Id: 12621-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12621-Dialogue?(11)?(2).mod:1
+msgid "... At least I don't have to deal with this sober..."
+msgstr ""
+
+#. Id: 12621-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12621-Dialogue?(11)?(2).mod:2
+msgid "... I'm not drunk enough for this crap..."
+msgstr ""
+
+#. Id: 12621-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12621-Dialogue?(11)?(2).mod:3
+msgid "... I have to deal with this sober?"
+msgstr ""
+
+#. Id: 12624-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12623-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12624-Dialogue?(11)?(2).mod:0
+msgid "... Noooo! Go eat someone else!!! /FUCKOFF/!"
+msgstr ""
+
+#. Id: 12624-Dialogue (11) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12623-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12624-Dialogue?(11)?(2).mod:1
+msgid "... Go eat someone else, /BASTARD/! Hey! No! NOOOOO!"
+msgstr ""
+
+#. Id: 12625-Dialogue (11) (2).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12624-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. Id: 13929-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13928-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13945-Escapes.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (13943-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 15810-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15809-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 15802-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15800-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: marked for death
+#: 12625-Dialogue?(11)?(2).mod:0 13929-Escapes.mod:1 13945-Escapes.mod:5 15810-Dialogue.mod:4 3626-dialogue-01.mod:8 15802-Dialogue.mod:4
+msgid "Leave me alone!"
+msgstr ""
+
+#. Id: 12625-Dialogue (11) (2).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (12624-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. Id: 13929-Escapes.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (13928-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13939-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13927-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13943-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 13945-Escapes.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13943-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 15810-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15809-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#. Id: 96305-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (96304-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver freaks out protecting queen shoo
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 19741-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver shoo
+#. Id: 49451-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 15802-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15800-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: marked for death
+#: 12625-Dialogue?(11)?(2).mod:1 13929-Escapes.mod:3 13939-Escapes.mod:3 13943-Escapes.mod:2 13945-Escapes.mod:4 15810-Dialogue.mod:3 96305-Dialogue.mod:2 19741-Dialogue.mod:0 49451-Dialogue.mod:0 15802-Dialogue.mod:3
+msgid "Go away!"
+msgstr ""
+
+#. Id: 12625-Dialogue (11) (2).mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (12624-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12625-Dialogue?(11)?(2).mod:2
+msgid "Don't come any closer!"
+msgstr ""
+
+#. Id: 12625-Dialogue (11) (2).mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (12624-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. Id: 15810-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15809-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ marked for death
+#. Id: 15802-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15800-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: marked for death
+#: 12625-Dialogue?(11)?(2).mod:3 15810-Dialogue.mod:5 15802-Dialogue.mod:5
+msgid "Noooo!"
+msgstr ""
+
+#. Id: 12627-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12627-Dialogue?(11)?(2).mod:0
+msgid "This is... not good."
+msgstr ""
+
+#. Id: 12627-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12627-Dialogue?(11)?(2).mod:1
+msgid "This is... bad."
+msgstr ""
+
+#. Id: 12627-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12627-Dialogue?(11)?(2).mod:2
+msgid "Oh mercy."
+msgstr ""
+
+#. Id: 12627-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12627-Dialogue?(11)?(2).mod:3
+msgid "Ngh! No!"
+msgstr ""
+
+#. Id: 41073-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12627-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 41073-Dialogue.mod:0
+msgid "Okran be with me..."
+msgstr ""
+
+#. Id: 41073-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12627-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 41073-Dialogue.mod:1
+msgid "Okran have mercy on my soul..."
+msgstr ""
+
+#. Id: 41073-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12627-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 41073-Dialogue.mod:2
+msgid "Okran protect me..."
+msgstr ""
+
+#. Id: 12629-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12629-Dialogue?(11)?(2).mod:0
+msgid "Hey, /IDIOT/. You gonna eat me? You gonna? Then fucking eat me, I dare you!"
+msgstr ""
+
+#. Id: 12629-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12629-Dialogue?(11)?(2).mod:1
+msgid "Okay, cannibal /TRASH/, come eat me! Get it goddamn over with already! "
+msgstr ""
+
+#. Id: 12629-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12629-Dialogue?(11)?(2).mod:2
+msgid "... heh... heh... /IDIOT/s. Come on then, come eat me!"
+msgstr ""
+
+#. Id: 12631-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12629-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12631-Dialogue?(11)?(2).mod:0
+msgid "Or are you too chicken?!"
+msgstr ""
+
+#. Id: 12631-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12629-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12631-Dialogue?(11)?(2).mod:1
+msgid "I don't wanna live on this stinkin' shit pile of a planet anyway!"
+msgstr ""
+
+#. Id: 12631-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12629-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12631-Dialogue?(11)?(2).mod:2
+msgid "Release me from this shithole life! Heh... heheheheh!"
+msgstr ""
+
+#. Id: 12631-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12629-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc marked for death cannibals
+#: 12631-Dialogue?(11)?(2).mod:3
+msgid "Eaten by cannibals... I'll go out with a bang!"
+msgstr ""
+

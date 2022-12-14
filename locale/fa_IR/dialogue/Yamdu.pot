@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 1401-09-23 06:47+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95674-__Mourn.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu
+#: 95674-__Mourn.mod:0
+msgid "Can I help you, sir?"
+msgstr ""
+
+#. Id: 95675-__Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95674-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu
+#: 95675-__Mourn.mod:0
+msgid "At your service for all membership enquiries!"
+msgstr ""
+

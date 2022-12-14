@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Resource" version="1.1">
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_StandardFont_Small">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="14"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_StandardFont_MediumSmall">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="16"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_StandardFont_Medium">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="20"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_StandardFont_Large">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="24"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_PaintedTextFont_Small">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="20"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_PaintedTextFont_Medium">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="25"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_PaintedTextFont_Large">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="28"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_BannerTextFont">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="150"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_FloaterFont_Small">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="20"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_FloaterFont_Medium">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="22"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_FloaterFont_Large">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="24"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Kenshi_UI_Messages">
+		<Property key="Source" value="arial.ttf"/>
+		<Property key="Size" value="110"/>
+		<Property key="Hinting" value="use_native"/>
+		<Property key="Resolution" value="50"/>
+		<Property key="Antialias" value="false"/>
+		<Property key="TabWidth" value="4"/>
+		<Property key="OffsetHeight" value="0"/>
+		<Property key="SubstituteCode" value="0"/>
+		<Property key="Distance" value="2"/>
+		<Codes>
+			<Code range="1 5000"/>
+		</Codes>
+	</Resource>
+</MyGUI>

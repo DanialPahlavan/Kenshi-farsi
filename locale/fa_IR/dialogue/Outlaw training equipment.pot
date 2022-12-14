@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 1401-09-23 06:47+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 52911-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#: 52911-Dialogue.mod:0
+msgid "Whaddya think you're doing, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 52911-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. Id: 52912-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#: 52911-Dialogue.mod:1 52912-Dialogue.mod:1
+msgid "/OI/, /OUTLANDER/, what d'ya think you're doin' there?"
+msgstr ""
+
+#. Id: 52911-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. Id: 52912-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#: 52911-Dialogue.mod:2 52912-Dialogue.mod:2
+msgid "/OI/, don't touch that."
+msgstr ""
+
+#. Id: 52914-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52914-Dialogue.mod:0
+msgid "That's private property, get your mitts offa it."
+msgstr ""
+
+#. Id: 52914-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52914-Dialogue.mod:1
+msgid "That's private equipment you're using, cut it out."
+msgstr ""
+
+#. Id: 52914-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (52911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52914-Dialogue.mod:2
+msgid "That ain't your equipment to use. Back away."
+msgstr ""
+
+#. Id: 52915-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52915-Dialogue.mod:0
+msgid "/OI/, /IDIOT/, I'm talking to you. Need your ears de-waxin' or somethin'?"
+msgstr ""
+
+#. Id: 52915-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52915-Dialogue.mod:1
+msgid "/OI/, /INSULT/, I said take your grubby paws off my stuff. We gonna have a problem here?"
+msgstr ""
+
+#. Id: 52915-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52915-Dialogue.mod:2
+msgid "/OI/, /INSULT/. You're using MY machines. Take your hands off my stuff, or I'll BREAK 'em off."
+msgstr ""
+
+#. Id: 52915-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (52914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52915-Dialogue.mod:3
+msgid "Once more: Hands off my equipment, or I'll BREAK 'em off."
+msgstr ""
+
+#. Id: 52915-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (52914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52915-Dialogue.mod:4
+msgid "Keep touching my equipment and things are gonna get ugly."
+msgstr ""
+
+#. Id: 52915-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (52914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52915-Dialogue.mod:5
+msgid "I warn you, I ain't a patient /MEMAN/. Hands off /MYOUR/ gear!"
+msgstr ""
+
+#. Id: 52915-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (52914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52915-Dialogue.mod:6
+msgid "/OI/, what's wrong with you? /GETLOST/ already."
+msgstr ""
+
+#. Id: 52915-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (52914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52915-Dialogue.mod:7
+msgid "Would you /GETLOST/ already, /INSULT/!? You're messin' up my equipment!"
+msgstr ""
+
+#. Id: 52915-Dialogue.mod
+#. -- Index: 2.8
+#. -- Parent line: 1 (52914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52915-Dialogue.mod:8
+msgid "Listen up, I ain't warning you again. Leave it alone already."
+msgstr ""
+
+#. Id: 52919-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52918-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52919-Dialogue.mod:0
+msgid "This /GUY/'s lookin' for a fight... Lookit that, grubbin' the place up a treat, this one."
+msgstr ""
+
+#. Id: 52919-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (52918-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52919-Dialogue.mod:1
+msgid "This freeloader's lookin' for a fight... "
+msgstr ""
+
+#. Id: 52919-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (52918-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52919-Dialogue.mod:2
+msgid "/HEIS/ still here... What's up with /THISGUY/?"
+msgstr ""
+
+#. Id: 52919-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (52918-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52919-Dialogue.mod:3
+msgid "You've asked enough. Break /HIS/ hands, I say."
+msgstr ""
+
+#. Id: 52919-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (52918-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52919-Dialogue.mod:4
+msgid "This has gone on long enough. I vote we break /HIS/ arms."
+msgstr ""
+
+#. Id: 52919-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (52918-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52919-Dialogue.mod:5
+msgid "Really? Still here? Time to wrap it up, we'll deal with /EM/ the messy way."
+msgstr ""
+
+#. Id: 52920-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52920-Dialogue.mod:0
+msgid "That's it. I gave you enough warning, /INSULT/. Boot /EM/ out!"
+msgstr ""
+
+#. Id: 52920-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (52919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52920-Dialogue.mod:1
+msgid "Alright, boot /EM/ out!"
+msgstr ""
+
+#. Id: 52921-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52920-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52921-Dialogue.mod:0
+msgid "I'll teach you not to freeload offa us..."
+msgstr ""
+
+#. Id: 52921-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (52920-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52921-Dialogue.mod:1
+msgid "This oughta teach you not to freeload again..."
+msgstr ""
+
+#. Id: 52935-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 52935-Dialogue.mod:0
+msgid "And stay out."
+msgstr ""
+
+#. Id: 52935-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (52919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 52935-Dialogue.mod:1
+msgid "And stay out, freeloader."
+msgstr ""
+
+#. Id: 52935-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (52919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 52935-Dialogue.mod:2
+msgid "Good riddance to freeloaders, eh."
+msgstr ""
+
+#. Id: 52935-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (52919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 52935-Dialogue.mod:3
+msgid "'Bout time."
+msgstr ""
+
+#. Id: 52935-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (52919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 52935-Dialogue.mod:4
+msgid "That's it. And stay out."
+msgstr ""
+
+#. Id: 52935-Dialogue.mod
+#. -- Index: 5.5
+#. -- Parent line: 4 (52919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 52935-Dialogue.mod:5
+msgid "That's it. And good riddance to ya."
+msgstr ""
+
+#. Id: 52912-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#: 52912-Dialogue.mod:0
+msgid "Whaddya think you're doing, /OUTLANDER/? "
+msgstr ""
+
+#. Id: 52913-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52913-Dialogue.mod:0
+msgid "That's Shinobi equipment. Member's only, got it? Now get your mitts offa it."
+msgstr ""
+
+#. Id: 52913-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52913-Dialogue.mod:1
+msgid "That's Shinobi equipment you're using, cut it out. You want in, you gotta get a membership."
+msgstr ""
+
+#. Id: 52913-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (52912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52913-Dialogue.mod:2
+msgid "That ain't your equipment to use. Back away. You wanna use it, you gotta buy a membership."
+msgstr ""
+
+#. Id: 52913-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (52912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw training equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52913-Dialogue.mod:3
+msgid "Members-only equipment. You wanna use it, buy a membership or get lost."
+msgstr ""
+
